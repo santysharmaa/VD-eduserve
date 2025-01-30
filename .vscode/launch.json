@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open cse.html",
-            "file": "c:\\Users\\91930\\Desktop\\12307138(Online coaching and training platform)\\cse.html"
+            "file": "C:/Users/91930/Desktop/hackathon/cse.html"
         }
     ]
 }
